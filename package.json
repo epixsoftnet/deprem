@@ -1,35 +1,28 @@
 {
-  "name": "merkezbankasi",
-  "version": "1.0.1",
-  "description": "Türkiye Cumhuriyeti Merkez Bankası Döviz Kurları",
+  "name": "epixdeprem",
+  "version": "1.0.0",
+  "description": "Kandilli Rasathanesi TÜRKİYE ve yakın çevresindeki deprem listesi. 500 kayıt içermektedir.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epixsoftnet/merkezbankasi"
+    "url": "git+https://github.com/epixsoftnet/deprem"
   },
   "keywords": [
-    "doviz",
-    "kur",
-    "merkez bankasi",
-    "usd to try",
-    "euro to try",
-    "tcmb",
-    "tcmb doviz kuru",
-    "tcmb-doviz-kuru",
-    "tcmb exchange rates",
-    "tcmb-exchange-rates"
+    "deprem",
+    "kandilli rasathanesi",
+    "türkiyedeki depremler",
+    "son depremler"
   ],
   "author": "Epixsoft",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/epixsoftnet/merkezbankasi/issues"
+    "url": "https://github.com/epixsoftnet/deprem/issues"
   },
   "homepage": "https://epixsoft.net",
   "dependencies": {
-    "fast-xml-parser": "^4.0.0-beta.8",
     "request": "^2.88.2"
   }
 }
